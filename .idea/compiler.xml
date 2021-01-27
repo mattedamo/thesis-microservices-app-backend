@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="thesis-microservices-app-backend" target="11" />
+      <module name="thesis-microservices-app-backend" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
